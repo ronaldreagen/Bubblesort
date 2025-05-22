@@ -35,9 +35,9 @@ This project contains **two Python scripts** that demonstrate the **Bubble Sort*
 2. Run either script using Python:
 
 ```bash
-python bubblesort_nospace.py
+python Bubblesort(nsp).py
 # or
-python bubblesort_withspace.py
+python Bubblesort(wsp).py
 ```
 
 3. Enter your input when prompted:
@@ -46,7 +46,7 @@ python bubblesort_withspace.py
 
 ---
 
-## 📦 Sample Output (withspace version)
+## 📦 Sample Output (withspace version & Indonesian Language)
 
 ```
 Masukkan angka-angka yang ingin diurutkan (pisahkan dengan spasi): 5 3 8 2
